@@ -29,16 +29,15 @@ Ideal para desenvolvedores que buscam flexibilidade e agilidade na construção 
 ## Instalação
 
 1. Faça o download ou clone este repositório:
-```bash
+
    git clone https://github.com/seu-usuario/tailwind_daisyUi_theme_WordPress.git
 
- 2.Após clonar o repositório, execute o comando abaixo para instalar as dependências necessárias:
-
- ```bash
+ 2. Após clonar o repositório, execute o comando abaixo para instalar as dependências necessárias:
+ 
    npm install
 
 
-   No arquivo index.php, você encontrará a classe index-block-d-none. Para remover o conteúdo padrão do tema, siga um dos passos abaixo:
+3. No arquivo index.php, você encontrará a classe index-block-d-none. Para remover o conteúdo padrão do tema, siga um dos passos abaixo:
 
   Abra o painel do WordPress e vá para Aparência > Personalizar > CSS Adicional e adicione o seguinte código:
 
