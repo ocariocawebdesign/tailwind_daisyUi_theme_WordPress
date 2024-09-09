@@ -18,7 +18,7 @@
     
     <!-- Título da página centralizado -->
     <h1 class="text-3xl text-center font-bold mb-6 index-block-d-none">
-        <?php the_title(); ?>
+      <?php // the_title(); ?>
     </h1>
     
     <!-- Conteúdo da página -->
