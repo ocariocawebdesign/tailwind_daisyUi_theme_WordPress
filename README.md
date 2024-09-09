@@ -8,6 +8,10 @@ O **Tailwind DaisyUI Theme** é um tema para WordPress projetado para customiza�
 
 Ideal para desenvolvedores que buscam flexibilidade e agilidade na construção de layouts com base em blocos dinâmicos e altamente customizáveis.
 
+## Screenshot
+
+![Screenshot do Tema](https://tailwinddaisyuitheme.cloud/wp-content/uploads/2024/09/Screenshot-2024-09-08-at-22-21-49-Home-Tailwind-Daisy-UI-Theme.png)
+
 ## Características
 
 - **Construção com Tailwind CSS**: Estilo moderno, leve e totalmente personalizável.
@@ -20,6 +24,7 @@ Ideal para desenvolvedores que buscam flexibilidade e agilidade na construção 
 
 - **Tailwind CSS** - [tailwindcss.com](https://tailwindcss.com/)
 - **DaisyUI** - [daisyui.com](https://daisyui.com/)
+
 
 ## Instalação
 
