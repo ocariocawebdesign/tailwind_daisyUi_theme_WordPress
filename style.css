@@ -1,0 +1,23 @@
+/*
+Theme Name: Tailwind Daisy Ui Theme
+Theme URI: http://exemplo.com
+Theme URI: http://exemplo.com/seu-tema
+Author: Carlos Abreu
+Author URI: http://exemplo.com
+Description: Este tema WordPress é projetado para fornecer uma base moderna e estilizada usando Tailwind CSS e Daisy UI. Inclui suporte para logotipo personalizado e um menu responsivo. O tema é compatível com o editor Gutenberg e é facilmente personalizável.
+Version: 1.0
+License: Licença do Tema
+License URI: http://exemplo.com/licenca
+Text Domain: seu-text-domain
+*/
+
+/* Reset Básico e Estilos Gerais */
+
+
+
+/* Outras Estilizações Básicas */
+
+
+body{
+  background-color: #ffffff;
+}
