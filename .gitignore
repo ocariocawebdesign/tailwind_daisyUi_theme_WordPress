@@ -1,1 +1,7 @@
-/node_modules
+# Evitar subir a pasta node_modules
+node_modules/
+
+# Ignorar arquivos do editor
+.vscode/
+.idea/
+*.swp
