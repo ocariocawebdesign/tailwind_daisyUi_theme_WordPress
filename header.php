@@ -20,6 +20,20 @@
     </script>
 </head>
 
+    <style>
+        /*Romove o conteúdo padrão do tema */ 
+        /*.index-block-d-none {
+        display: none;}*/
+
+        /*Cor de fundo do tema */
+        body{
+
+            background-color: #fff!important;
+        }
+
+    </style>
+
+
 <body <?php body_class(); ?>>
     <?php wp_body_open(); ?>
     <header class="mt-4 relative z-10"> <!-- Adiciona um z-index para garantir que o header esteja no topo -->
@@ -100,6 +114,3 @@
             </div>
         </nav>
     </header>
-    <?php wp_footer(); ?>
-</body>
-</html>
